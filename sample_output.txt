@@ -1,0 +1,57 @@
+Script started on 2019-01-22 11:15:33-0500
+abochene@pu1:~/sort_test$ ./a.out
+
+
+got here
+
+
+
+got here
+
+
+
+alex johnson
+austin johnson
+payton johnson
+ben johnson
+brad johnson
+chad johnson
+clay johnson
+nate johnson
+liam johnson
+haley johnson
+terry smith
+peter smith
+nate smith
+haley smith
+clay smith
+cheryl smith
+ben smith
+austin smith
+alex smith
+peyton smith
+
+
+alex johnson
+austin johnson
+ben johnson
+brad johnson
+chad johnson
+clay johnson
+haley johnson
+liam johnson
+nate johnson
+payton johnson
+alex smith
+austin smith
+ben smith
+cheryl smith
+clay smith
+haley smith
+nate smith
+peter smith
+peyton smith
+terry smith
+abochene@pu1:~/sort_test$ exit
+
+Script done on 2019-01-22 11:15:41-0500
