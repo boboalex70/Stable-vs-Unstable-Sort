@@ -39,7 +39,6 @@ int main(){
 		getline(inf, list1[i].lname);
 	}
 	inf.close();
-	cout << "\n\ngot here\n\n";
 	inf.open (myfile.c_str());
 	if (inf.fail()){
 		exit(1);
@@ -51,7 +50,6 @@ int main(){
 		getline(inf, list2[i].lname);
 	}
 	inf.close();
-	cout << "\n\ngot here\n\n";
 	sort(list1, list1 + 20, comparefnames);
 	sort(list1, list1 + 20, comparelnames);
 	sort(list2, list2 + 20, comparefnames);
